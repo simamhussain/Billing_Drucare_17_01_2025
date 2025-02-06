@@ -1,0 +1,2 @@
+cd C:\Imam Selenium\Web driver\Billing_Drucare_17_01_2025
+mvn test
